@@ -2,7 +2,7 @@
 <Script xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Commands>
     <ScriptAction>
-      <ScriptCommand xsi:type="MessageBoxCommand" CommandID="024283a9-7b5c-4302-ae28-3a5cf361834a" CommandName="MessageBoxCommand" IsCommented="false" SelectionName="Show Message" DefaultPause="0" LineNumber="1" PauseBeforeExeucution="false" CommandEnabled="true" v_Message="My Fisrt Robot in Project2" v_AutoCloseAfter="0" />
+      <ScriptCommand xsi:type="MessageBoxCommand" CommandID="024283a9-7b5c-4302-ae28-3a5cf361834a" CommandName="MessageBoxCommand" IsCommented="false" SelectionName="Show Message" DefaultPause="0" LineNumber="1" PauseBeforeExeucution="false" CommandEnabled="true" v_Message="My Fisrt Robot " v_AutoCloseAfter="0" />
     </ScriptAction>
   </Commands>
   <Variables />
